@@ -15,5 +15,6 @@ public class StockManager {
      */
     public static void main(String[] args) {
         System.out.println("yaytest");
+        System.out.println("craig woz ere 2k12");
     }
 }
